@@ -1,0 +1,149 @@
+body{
+
+  background-color: #FFFFFF;
+}
+.inicio{
+
+    height: 30px;
+    margin-left: 100px;
+}
+
+.home-button{
+
+    color: #FFFFFF;
+
+}
+.roboto-font{
+
+    font-family: roboto;
+}
+
+
+.color-font{
+
+   color:#FFFFFF;
+}
+
+.color-font-opaque{
+
+    color: #e3e3e3e8;
+}
+.background-green{
+
+    background-color: #28A745;
+}
+
+.flex-end{
+    justify-content: flex-end;
+} 
+
+.pm{
+
+    color:#707070;
+    font-family: roboto;
+
+}
+.card-direction{
+
+    display: flex;
+    align-items: baseline;
+}
+
+.card-prices{
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-prices p{
+
+    margin-left: 20px;
+
+}
+
+.first-pm{
+    color: #707070;
+font-family:roboto;
+}
+
+.second-pm{
+
+    color:#28A745;
+    font-family: roboto;
+    font-weight: bolder;
+}
+
+.card-name{
+    margin-top: 11px;
+}
+
+.card-direction p{
+margin-left: 5px;
+}
+    
+
+.icono i{
+
+    color: #707070;
+}
+
+.card-text{
+    font-family: roboto;
+}
+
+.footer-bolder {
+    font-weight: bolder;
+}
+
+.card-line {
+    height: 1.5px;
+    width: 100%;
+    background-color: #707070A0;
+    margin-bottom: 5px;
+}
+
+
+
+.square-form{
+
+    font-family: roboto;
+    color: #707070;
+    font-style: normal;
+    margin-top: 10px;
+    
+}
+
+.button-color{
+    background-color: #F8F9FA;
+    color: #212529;
+    font-family:"roboto";
+    margin-top: 10px;
+    border:solid 1pt #DDDDDD;
+    font-weight: bold;
+    
+}
+.button-color:hover{
+    border:solid 1pt #28A745;
+    background-color: #F8F9FA;
+    color: #212529;
+    
+}
+
+.container-color{
+
+    background-color: #28A745;
+    padding: 30px;
+    margin: 40px 0px;
+}
+
+.form-flex {
+    display: flex;
+}
+.final{
+
+height: 50px;
+font-family: roboto;
+color: #707070;
+
+
+}
